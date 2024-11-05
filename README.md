@@ -16,6 +16,7 @@ Here are some of my contributions:
 
 You can follow me or reach out on:
 
+- 🦋 BlueSky, [@nojaf.com](https://bsky.app/profile/nojaf.com)
 - 🐦 Twitter, [@verdonckflorian](http://twitter.com/verdonckflorian)
 - 📺 YouTube, [nojaf](https://www.youtube.com/user/nojaf/videos)
 - ✉️Email, `florian@nojaf.com`
