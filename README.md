@@ -1,38 +1,25 @@
-![Logo Nojaf BV](./logo.png)
+<img src="./logo.png" style="width:50%;" alt="Logo Nojaf BV" />
 
-### Hello there 😸
+### Open Source Developer 🛠️
 
-I'm Florian, a freelance software craftsman.  
-I do consultancy, training and open-source development.
+I'm Florian Verdonck, a freelance software craftsman at Nojaf BV, specialising in open-source development, consultancy, and training. I help companies succeed with OSS.
 
-Currently, I'm active in the F# community, working on the compiler and tooling.  
-Here are some of my contributions:
+My expertise lies in contributing to and maintaining open-source projects. I am involved in the F# community, with contributions to the compiler, tooling, and documentation.
 
-- [fsprojects/fantomas](https://github.com/fsprojects/fantomas/pulls?q=is%3Apr+author%3Anojaf)
+**F# OSS Contributions:**
+
+- [fantomas](https://github.com/fsprojects/fantomas/pulls?q=is%3Apr+author%3Anojaf)
 - [dotnet/fsharp](https://github.com/dotnet/fsharp/pulls?q=is%3Apr+author%3Anojaf)
-- [fsharp/FsAutoComplete](https://github.com/fsharp/FsAutoComplete/pulls?q=is%3Apr+author%3Anojaf)
+- [FsAutoComplete](https://github.com/fsharp/FsAutoComplete/pulls?q=is%3Apr+author%3Anojaf)
 - [JetBrains/resharper-fsharp](https://github.com/JetBrains/resharper-fsharp/pulls?q=is%3Apr+author%3Anojaf)
 - [dotnet/docs](https://github.com/dotnet/docs/pulls?q=is%3Apr+author%3Anojaf)
 
-You can follow me or reach out on:
+**Let's Connect:**
 
-- 🦋 BlueSky, [@nojaf.com](https://bsky.app/profile/nojaf.com)
-- 🐦 Twitter, [@verdonckflorian](http://twitter.com/verdonckflorian)
-- 📺 YouTube, [nojaf](https://www.youtube.com/user/nojaf/videos)
-- ✉️Email, `florian@nojaf.com`
+- 🦋 BlueSky: [@nojaf.com](https://bsky.app/profile/nojaf.com)
+- 🐦 Twitter: [@verdonckflorian](http://twitter.com/verdonckflorian)
+- 📺 YouTube: [nojaf](https://www.youtube.com/user/nojaf/videos)
+- ✉️ Email: florian@nojaf.com
+- 🗓️ Schedule a [call](https://calendly.com/florian-nojaf/30min)
 
-
-<!--
-**nojaf/nojaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have experience with a range of languages including Python, Go, JavaScript, OCaml, and ReScript. I'm always open to discussing OSS projects, challenges, or potential collaborations. Get in touch!
